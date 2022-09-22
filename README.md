@@ -9,7 +9,7 @@ With the plethora of streaming services that exist such as AmazonPrime, HBOMax, 
 Sources: https://grouplens.org/datasets/movielens/
 
 
-Requirements: Python, Tableau, SQL, Google Co-lab, HTML, Jupyter Notebooks, AWS, Heroku
+Requirements: Python, Tableau, SQL, Google Co-lab, HTML, Jupyter Notebooks, AWS
 
 Dependencies: 
 
