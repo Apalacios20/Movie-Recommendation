@@ -12,17 +12,17 @@ Sources: https://grouplens.org/datasets/movielens/
 Requirements: Python, Tableau, SQL, Google Co-lab, HTML, Jupyter Notebooks, AWS, Heroku
 
 Dependencies: 
-  -pandas
-  -scikitlearn
-  -numpy
-  -scipy
-  -matplotlib
+-pandas
+-scikitlearn
+-numpy
+-scipy
+-matplotlib
   
 Work Splits: 
-  ML Process- Anthony and Osa
-  HTML and Frontend-Osa
-  Tableau- Michael and Sergio
-  SQL- Michael and Sergio
+ML Process- Anthony and Osa
+HTML and Frontend-Osa
+Tableau- Michael and Sergio
+SQL- Michael and Sergio
  
  Algorithims: TBD once data collection has been completed
   
