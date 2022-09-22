@@ -20,8 +20,11 @@ Dependencies:
   
 Work Splits: 
 ML Process- Anthony and Osa
+
 HTML and Frontend-Osa
+
 Tableau- Michael and Sergio
+
 SQL- Michael and Sergio
  
  Algorithims: TBD once data collection has been completed
