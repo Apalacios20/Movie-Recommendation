@@ -7,11 +7,14 @@ Purpose: Our project focuses on creating a movie reccomendation tool using Machi
 Sources: https://grouplens.org/datasets/movielens/
 
 
-Requirements: Python, Tableau, SQL, Google Co-lab, HTML
+Requirements: Python, Tableau, SQL, Google Co-lab, HTML, Jupyter Notebooks
 
-
-
-
+Dependencies: 
+  -pandas
+  -scikitlearn
+  -numpy
+  -scipy
+  -matplotlib
 
 
 
