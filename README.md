@@ -1,4 +1,4 @@
-# Project-4
+# Movie Recommendation
 
 ## Members: 
 Anthony Palacios, Osamu Adler, Sergio Basurto, and Michael Diaz 
